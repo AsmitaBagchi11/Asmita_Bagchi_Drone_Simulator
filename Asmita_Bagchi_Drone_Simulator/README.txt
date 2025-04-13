@@ -1,4 +1,4 @@
-Drone Simulator — Console Based (Python)
+Drone Simulator
 
 --------------------
 FEATURES:
